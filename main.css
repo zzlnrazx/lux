@@ -60,7 +60,7 @@ body {
     color: rgb(255, 255, 255);
 }
 .bg-image-1 {
-    background-image: url('hehes.gif');
+    background-image: url('hehes.mp4');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -79,3 +79,4 @@ body {
     background-size: 95%;
 
 }
+
