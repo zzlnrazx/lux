@@ -51,7 +51,7 @@ body {
 }
 #message {
     top: -3vh;
-    font-size: 4vh;
+    font-size: 6vh;
     color: rgb(141, 17, 48);
     margin-top: 0; /* แก้ไขตรงนี้ */
 }
@@ -108,4 +108,5 @@ body {
         margin-top: 0; /* แก้ไขตรงนี้ */
     }
 }
+
 
