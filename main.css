@@ -22,7 +22,7 @@ body {
     align-items: center;
     text-align: center;
     /* background-color: white; */
-    background-image: url('/all/as5.png');
+    background-image: url('as5.png');
     border-radius: 5vh;
     background-repeat: no-repeat;
     background-size: cover;
@@ -60,7 +60,7 @@ body {
     color: rgb(255, 255, 255);
 }
 .bg-image-1 {
-    background-image: url('/all/hehes.gif');
+    background-image: url('hehes.gif');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -75,6 +75,7 @@ body {
     background: white;
 }
 .bg-gradient {
-    background-image: url('/all/as3.png');
+    background-image: url('as3.png');
     background-size: 95%;
+
 }
