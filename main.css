@@ -81,6 +81,7 @@ body {
 }
 
 
+
 @media screen and (max-width: 480px) {
     .box {
         width: 90vw;
@@ -99,14 +100,11 @@ body {
         top: 6vw;
         border-radius: 10vw;
         box-shadow: 0 0 1vh 1vh rgba(251, 223, 255, 0.7), 
-                0 4px 16px rgba(255, 255, 255, 0.25);
-}
-    }
+                0 4px 16px rgba(255, 255, 255, 0.25);}
+
     #message {
         top: -3vw;
         font-size: 5vw;
         margin-top: 0; /* แก้ไขตรงนี้ */
     }
-    
-
-
+}
