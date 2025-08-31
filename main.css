@@ -22,7 +22,7 @@ body {
     align-items: center;
     text-align: center;
     /* background-color: white; */
-    background-image: url('/all/as5.png');
+    background-image: url('all/as5.png');
     border-radius: 5vh;
     background-repeat: no-repeat;
     background-size: cover;
@@ -108,4 +108,5 @@ body {
         margin-top: 0; /* แก้ไขตรงนี้ */
     }
     
+
 
