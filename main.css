@@ -22,10 +22,11 @@ body {
     align-items: center;
     text-align: center;
     /* background-color: white; */
-    background-image: url('as5.png');
+    background-image: url('/all/as5.png');
     border-radius: 5vh;
     background-repeat: no-repeat;
     background-size: cover;
+}
 #message2 {
     position: relative;
     font-size: 5vh;
@@ -50,7 +51,7 @@ body {
 }
 #message {
     top: -3vh;
-    font-size: 4vh;
+    font-size: 3vh;
     color: rgb(141, 17, 48);
     margin-top: 0; /* แก้ไขตรงนี้ */
 }
@@ -60,7 +61,7 @@ body {
     color: rgb(255, 255, 255);
 }
 .bg-image-1 {
-    background-image: url('hehes.gif');
+    background-image: url('/all/hehes.gif');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -107,7 +108,3 @@ body {
         margin-top: 0; /* แก้ไขตรงนี้ */
     }
     
-
-}
-
-
