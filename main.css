@@ -61,7 +61,7 @@ body {
     color: rgb(255, 255, 255);
 }
 .bg-image-1 {
-    background-image: url('/all/hehes.gif');
+    background-image: url('all/hehes.gif');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -108,3 +108,4 @@ body {
         margin-top: 0; /* แก้ไขตรงนี้ */
     }
     
+
