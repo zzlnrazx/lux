@@ -87,14 +87,15 @@ body {
         border-radius: 10vw;
     }
     #message2 {
-        font-size: 4vw;
+        position: relative;
+        font-size: 6vw;
         margin-bottom: 2vw;
-        top: -2vw;
+        top: 3vw;
     }
     #bt1 {
         padding: 3vw 7vw;
         font-size: 5vw;
-        top: 0vw;
+        top: 6vw;
         border-radius: 10vw;
         box-shadow: 0 0 1vh 1vh rgba(251, 223, 255, 0.7), 
                 0 4px 16px rgba(255, 255, 255, 0.25);
@@ -106,7 +107,5 @@ body {
         margin-top: 0; /* แก้ไขตรงนี้ */
     }
     
-}
-
 
 
