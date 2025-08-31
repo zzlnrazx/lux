@@ -26,12 +26,12 @@ body {
     border-radius: 5vh;
     background-repeat: no-repeat;
     background-size: cover;
-}
 #message2 {
+    position: relative;
     font-size: 5vh;
     color: rgb(153, 18, 63);
     margin-bottom: 2vh;
-    top: -4vh;
+    top: 5vh;
     box-shadow: 0 0 5vh 4vh rgba(251, 223, 255, 0.7), 
 }
 #bt1 {
@@ -43,7 +43,7 @@ body {
     border: none;
     cursor: pointer; 
     border-radius: 75vh;
-    top: 1vh;
+    top: 4vw;
     /* ออร่าสีขาว */
     box-shadow: 0 0 2vh 2vh rgba(251, 223, 255, 0.7), 
                 0 4px 16px rgba(255, 255, 255, 0.25);
@@ -107,5 +107,6 @@ body {
         margin-top: 0; /* แก้ไขตรงนี้ */
     }
     
+
 
 
